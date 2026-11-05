@@ -1,3 +1,4 @@
+# KR2: Chuvilov
 import os
 import socket
 
